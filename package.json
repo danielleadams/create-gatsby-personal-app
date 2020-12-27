@@ -1,0 +1,32 @@
+{
+  "name": "create-gatsby-personal-app",
+  "description": "Gatsby template for personal app",
+  "version": "0.1.0",
+  "license": "0BSD",
+  "scripts": {
+    "build": "gatsby build",
+    "dev": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "npm run dev",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1",
+    "gatsby": "^2.26.1",
+    "react": "^16.12.0",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "prettier": "2.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielleadams/create-gatsby-personal-app"
+  },
+  "bugs": {
+    "url": "https://github.com/danielleadams/create-gatsby-personal-app/issues"
+  }
+}

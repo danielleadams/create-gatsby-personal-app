@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "url": "https://blog.heroku.com/building-a-monorepo-with-yarn-2",
+      "date": "December 22, 2020",
+      "title": "Building a Monorepo with Yarn 2",
+      "image": "https://heroku-blog-files.s3.amazonaws.com/posts/1608668413-yarn.png",
+      "intro": "In true JavaScript fashion, there was no shortage of releases in the JavaScript ecosystem this year. This includes the Yarn project’s release of Yarn 2 with a compressed cache of JavaScript dependencies, including a Yarn binary to reference, that can be used for a zero-install deployment."
+    },
+    {
+      "url": "https://blog.heroku.com/celebrating-25-years-of-javascript",
+      "date": "December 4, 2020",
+      "title": "Celebrating 25 Years of JavaScript",
+      "image": "https://heroku-blog-files.s3.amazonaws.com/posts/1606962238-heroku-blog.png",
+      "intro": "JavaScript turns 25 years old today. While it’s made an impact on my career as a developer, it has also impacted many developers like me and users around the world. To commemorate our favorite language, we’ve collected 25 landmark events that have shaped the path of what the JavaScript ecosystem looks like today."
+    }
+  ]
+}

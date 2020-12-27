@@ -1,0 +1,25 @@
+{
+  "talks": [
+    {
+      "youtubeId": "tkhTeMtm3XI",
+      "title": "Talk 1",
+      "event": "Conf 1 2018",
+      "slidesUrl": "slides.com",
+      "additional_events": ["Add Conf 2"]
+    },
+    {
+      "youtubeId": "DKTQa8x4PT0",
+      "title": "Talk 2",
+      "event": "Conf 3 2018",
+      "slidesUrl": "slides.com",
+      "additional_events": ["Add Conf 4 2017"]
+    },
+    {
+      "youtubeId": "68q3Hl-HZQM",
+      "title": "Talk 3",
+      "event": "Conf 5 2017",
+      "slidesId": "slides.coom",
+      "additional_events": ["Add Conf 6 2016", "Add Conf 7 2016"]
+    }
+  ]
+}
