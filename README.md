@@ -5,13 +5,7 @@ A simple Gatsby app that is set up for a personal page.
 ## Install
 
 ```sh
-npx create-gatsby-personal-app art.com
-```
-
-or
-
-```sh
-yarn create gatsby-personal-app
+git clone https://github.com/danielleadams/create-gatsby-personal-app
 ```
 
 ## Usage
