@@ -1,7 +1,7 @@
 {
   "name": "create-gatsby-personal-app",
   "description": "Gatsby template for personal app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
